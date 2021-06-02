@@ -1,0 +1,2 @@
+# JWS_QA_Automation-Test_Karis
+BCQA_PracticalExam
